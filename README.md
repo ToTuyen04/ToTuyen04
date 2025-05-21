@@ -53,8 +53,8 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-for-rice&show_icons=true&line_height=21&theme=vue&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-for-rice&layout=compact&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ToTuyen04&show_icons=true&line_height=21&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToTuyen04&layout=compact&theme=vue&hide_border=true" />
 </div>
 
 
