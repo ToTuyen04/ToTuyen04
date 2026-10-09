@@ -69,7 +69,7 @@
   <a href="https://www.youtube.com/@moontuyen2k4" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/minh-tuy%E1%BB%81n-679957284/" target="blank">
+  <a href="https://www.linkedin.com/in/totuyen04/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
   <a href="https://www.instagram.com/toomi_tu/" target="blank">
